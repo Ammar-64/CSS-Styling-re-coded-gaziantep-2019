@@ -10,7 +10,13 @@ figcaption {
   font-size: 0.75em;
   line-height: 1.5em;
   font-family: Georgia, "New Times Roman", serif;*/
-  font: normal 0.57em/1.5em "Elsie swash caps", "New Times Roman", serif;
+  font: normal 0.57em/1.5em "Elsie swash caps", cursive;
   color: #777;
   text-align: right;
+}
+
+.milk-text {
+  font: bold 2.6em "elsie swash caps", cursive;
+  color: white;
+  
 }
